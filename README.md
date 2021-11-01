@@ -1,5 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently learning Front End Dev
+🌱 Front End Dev
+🌱 Java
+🌱 OOPS
 
 📫 How to reach me: srishti26work@gmail.com
 
