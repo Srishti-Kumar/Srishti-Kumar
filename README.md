@@ -1,9 +1,12 @@
 ### Hi there 👋
+📚 B.Tech Computer Science (2023)
 🌱 Front End Dev
+🌱 Blockchain Development
 🌱 Java
+🌱 Python
 🌱 OOPS
-
-📫 How to reach me: srishti26work@gmail.com
+🔭 I’m currently working on Blockchain Projects 
+📫 Reach me : srishti26work@gmail.com
 
 
 
@@ -13,7 +16,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Blockchain Projects ...
 🌱 I’m currently learning Front End Dev
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
