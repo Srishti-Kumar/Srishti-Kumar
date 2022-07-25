@@ -1,12 +1,12 @@
-### Hi there 👋
-📚 B.Tech Computer Science (2023)
-🌱 Front End Dev
-🌱 Blockchain Development
-🌱 Java
-🌱 Python
-🌱 OOPS
-🔭 I’m currently working on Blockchain Projects 
-📫 Reach me : srishti26work@gmail.com
+### Hi there 👋 <br /> <br />
+📚 B.Tech Computer Science (2023)  <br />
+🌱 Front End Dev <br />
+🌱 Blockchain Development <br />
+🌱 Java <br />
+🌱 Python <br />
+🌱 OOPS <br />
+🔭 I’m currently working on Blockchain Projects  <br />
+📫 Reach me : srishti26work@gmail.com <br />
 
 
 
