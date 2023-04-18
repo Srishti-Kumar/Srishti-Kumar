@@ -6,7 +6,14 @@
 Srishti-Kumar
 ** Have Worked in: **
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white&style=ShieldStyle" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white&style=ShieldStyle" />
+  <img alt="python" src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=ShieldStyle" />
+  <img alt="html" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=ShieldStyle" />
+  <img alt="css" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white&style=ShieldStyle" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white&style=ShieldStyle" />
+  <img alt="MySQL" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white&style=ShieldStyle" />
+  <img alt="React" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white&style=ShieldStyle" />
+  
 </p>
 ** Version Control and Development tools used: **
 <p>
