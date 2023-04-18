@@ -10,9 +10,10 @@ Srishti-Kumar
   <img alt="python" src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=ShieldStyle" />
   <img alt="html" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=ShieldStyle" />
   <img alt="css" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white&style=ShieldStyle" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white&style=ShieldStyle" />
-  <img alt="MySQL" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white&style=ShieldStyle" />
-  <img alt="React" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white&style=ShieldStyle" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=ShieldStyle" />
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-F7DF1E?logo=mysql&logoColor=white&style=ShieldStyle" />
+  <img alt="sqlite" src="https://img.shields.io/badge/sqlite-003B57?logo=sqlite&logoColor=white&style=ShieldStyle" />
+  <img alt="React" src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white&style=ShieldStyle" />
   
 </p>
 ** Version Control and Development tools used: **
@@ -20,6 +21,8 @@ Srishti-Kumar
 </p>
 ** Operating System Familiar with: **
 <p>
+  <img alt="macos" src="https://img.shields.io/badge/macos-000000?logo=macos&logoColor=white&style=ShieldStyle" />
+  <img alt="windows" src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=ShieldStyle" />
 </p>
 
 
